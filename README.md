@@ -22,11 +22,6 @@ username: postgres
 
 password: admin
 
-**Ссылки**
-- http://localhost:8080/users - получить всех пользователей.
-- http://localhost:8080/user-create - добавить пользователя.
-- http://localhost:8080/user-delete - удалить пользователя.
-- http://localhost:8080/user-update - изменить пользователя.
 
 Edit By Tunkenov Nikolay 
 https://vk.com/nik0sh
