@@ -23,6 +23,6 @@ username: postgres
 password: admin
 
 
-**Edit By** ***Tunkenov Nikolay*** 
+**Edit By** *Tunkenov Nikolay* 
 
 ***https://vk.com/nik0sh***
